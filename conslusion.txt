@@ -1,0 +1,13 @@
+CONCLUSIONES DEL PROYECTO: GENERACIÓN Y CLASIFICACIÓN DE DATOS
+
+1. Aprendizajes durante el desarrollo
+
+Durante el desarrollo de este proyecto se practicó la programación en Java mediante la creación, lectura y escritura de archivos de texto. También se trabajó con datos separados por punto y coma, colecciones para organizar la información y métodos para calcular y ordenar los resultados de las ventas. El proyecto permitió comprender la importancia de documentar el código, utilizar nombres claros para las variables y validar los datos antes de procesarlos.
+
+2. Aplicaciones en la vida profesional
+
+Los conocimientos adquiridos pueden aplicarse en diferentes actividades profesionales que requieran organizar grandes cantidades de información y generar reportes automáticamente. En el sector aeronáutico, por ejemplo, la automatización puede ayudar a consolidar registros operacionales, organizar datos administrativos y elaborar informes para facilitar el seguimiento y la toma de decisiones. La programación también permite reducir tareas manuales y disminuir el riesgo de errores en el procesamiento de información.
+
+3. Dificultades durante el desarrollo
+
+Una de las dificultades fue preparar el entorno de trabajo para ejecutar el proyecto y comprender cómo compilar y ejecutar las clases de Java. También fue necesario verificar la estructura de los archivos de entrada y comprobar que los reportes se generaran correctamente. Estas dificultades permitieron practicar la solución de problemas mediante pruebas paso a paso y comprender la importancia de verificar los resultados antes de considerar terminado un programa.
